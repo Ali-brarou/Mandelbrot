@@ -1,1 +1,2 @@
 # Mandelbrot
+mandelbrot duh
